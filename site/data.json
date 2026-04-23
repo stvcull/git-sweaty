@@ -8567,6 +8567,13 @@
       "subtype": "virtual_ride",
       "type": "VirtualRide",
       "year": 2026
+    },
+    {
+      "date": "2026-04-23",
+      "hour": 8,
+      "subtype": "lap_swimming",
+      "type": "Swim",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18406,6 +18413,15 @@
           "distance": 2600.0,
           "elevation_gain": 0.0,
           "moving_time": 2686.94189453125
+        },
+        "2026-04-23": {
+          "activity_ids": [
+            "22630549360"
+          ],
+          "count": 1,
+          "distance": 2600.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2660.04296875
         }
       },
       "VirtualRide": {
@@ -19299,7 +19315,7 @@
       }
     }
   },
-  "generated_at": "2026-04-23T00:41:29.275511+00:00",
+  "generated_at": "2026-04-23T16:47:42.777863+00:00",
   "other_bucket": "OtherSports",
   "repo": "stvcull/git-sweaty",
   "source": "garmin",

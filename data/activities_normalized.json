@@ -15910,5 +15910,18 @@
     "start_date_local": "2026-04-22T11:37:31",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 2600.0,
+    "elevation_gain": 0.0,
+    "id": "22630549360",
+    "moving_time": 2660.04296875,
+    "name": "Pool Swim: Aerobic Endurance",
+    "raw_activity_type": "lap_swimming",
+    "raw_type": "lap_swimming",
+    "start_date_local": "2026-04-23T08:54:28",
+    "type": "Swim",
+    "year": 2026
   }
 ]
