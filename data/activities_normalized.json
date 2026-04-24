@@ -15923,5 +15923,31 @@
     "start_date_local": "2026-04-23T08:54:28",
     "type": "Swim",
     "year": 2026
+  },
+  {
+    "date": "2026-04-24",
+    "distance": 21101.359375,
+    "elevation_gain": 87.0,
+    "id": "22640472072",
+    "moving_time": 2281.0,
+    "name": "ROUVY - IRONMAN Canada-Ottawa 30 KM",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-04-24T06:06:16",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-24",
+    "distance": 9315.75,
+    "elevation_gain": 27.0,
+    "id": "22640653321",
+    "moving_time": 977.0,
+    "name": "ROUVY - IRONMAN Canada-Ottawa 30 KM",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-04-24T06:45:26",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
