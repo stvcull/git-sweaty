@@ -15949,5 +15949,31 @@
     "start_date_local": "2026-04-24T06:45:26",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-24",
+    "distance": 10008.6796875,
+    "elevation_gain": 32.0,
+    "id": "22645032468",
+    "moving_time": 2885.4720153808594,
+    "name": "Ottawa Running",
+    "raw_activity_type": "running",
+    "raw_type": "running",
+    "start_date_local": "2026-04-24T12:48:10",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 90000.28125,
+    "elevation_gain": 74.0,
+    "id": "22653772337",
+    "moving_time": 9716.0,
+    "name": "ROUVY - Challenge Gunsan-Saemangeum | South Korea",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-04-25T06:21:59",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
