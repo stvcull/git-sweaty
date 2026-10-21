@@ -63,5 +63,18 @@
     "start_date_local": "2026-10-20T11:46:33",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-21",
+    "distance": 19316.640625,
+    "elevation_gain": 198.0,
+    "id": "24804633841",
+    "moving_time": 2578.940986633301,
+    "name": "ROUVY - Zone 2 Graft Lite | Kat Matthews\u2019 Favourite",
+    "raw_activity_type": "virtual_ride",
+    "raw_type": "virtual_ride",
+    "start_date_local": "2026-10-21T11:30:59",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
